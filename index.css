@@ -19,6 +19,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: var(--light-white);
+    padding: 171px 260px 260px 129px;
 }
 
 .container {
